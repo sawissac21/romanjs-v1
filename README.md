@@ -11,7 +11,7 @@ The library contain both
 ### Availiable Method
 Method | Description | Return
 ------------ | ------------- | -------------
-setValue() | Accept number and roman numeral | void
+setValue(...) | Accept number and roman numeral | void
 toRoman() | Use to change type | void
 toNumber() | Use to change type | void
 result() | Use to get output or result | string,number
